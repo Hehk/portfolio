@@ -48,7 +48,7 @@ var _server = require("glamor/server");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = "/Users/kyle/Workspace/personal/cereal/portfolio/pages/_document.js?entry";
+var _jsxFileName = "/Users/hehk/wrk/important/portfolio/pages/_document.js?entry";
 
 
 var MyDocument = function (_Document) {

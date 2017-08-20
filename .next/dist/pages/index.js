@@ -28,7 +28,7 @@ var _glamorous2 = _interopRequireDefault(_glamorous);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = "/Users/kyle/Workspace/personal/cereal/portfolio/pages/index.js?entry";
+var _jsxFileName = "/Users/hehk/wrk/important/portfolio/pages/index.js?entry";
 
 
 // Adds server generated styles to glamor cache.

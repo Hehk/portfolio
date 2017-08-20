@@ -14,7 +14,7 @@ var _glamorous2 = _interopRequireDefault(_glamorous);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = "/Users/kyle/Workspace/personal/cereal/portfolio/components/Logo/index.js";
+var _jsxFileName = "/Users/hehk/wrk/important/portfolio/components/Logo/index.js";
 
 
 var Wrapper = _glamorous2.default.div({
